@@ -1,4 +1,13 @@
 {
-    "products": [],
-    "users": []
+  "products": [],
+  "users": [
+    {
+      "id": "bnLLbtf0yyXI5U7nqK_IQ",
+      "username": "admin.master",
+      "email": "admin@master.com",
+      "password": "123456",
+      "isAdmin": true,
+      "cart": []
+    }
+  ]
 }
